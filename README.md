@@ -1,3 +1,4 @@
-# Excercism Haskell Track Solutions
+# excercism-hs
 
-Learning Haskell by solving problems from  [Excercism Haskell Track](https://exercism.org/tracks/haskell/exercises/hello-world/edit)
+Excercism Haskell Track Solutions
+Learning Haskell by solving problems from  [Excercism Haskell Track](https://exercism.org/tracks/haskell/)
